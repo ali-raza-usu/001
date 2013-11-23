@@ -12,7 +12,7 @@ import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
 import org.junit.Test;
 
-import utilities.FileTransferResponse;
+import utilities.messages.ver0.FileTransferResponse;
 
 
 public class FileHandler {

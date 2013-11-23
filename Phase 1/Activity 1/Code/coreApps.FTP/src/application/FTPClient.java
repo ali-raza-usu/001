@@ -16,9 +16,7 @@ import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
 
 import utilities.Encoder;
-import utilities.FileTransferAck;
-import utilities.FileTransferRequest;
-import utilities.FileTransferResponse;
+import utilities.messages.ver1.*;
 import utilities.Message;
 
 public class FTPClient extends Thread {

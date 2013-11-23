@@ -8,6 +8,7 @@ public class Message implements Serializable {
 	private static final long serialVersionUID = 1L;
 	private UUID messageId = null;
 	private UUID responseId = null;
+	private String version = "0.0";
 
 	public Message() {
 	}
@@ -30,5 +31,13 @@ public class Message implements Serializable {
 
 	public void setMessageId(UUID _msgId) {
 		messageId = _msgId;
+	}
+
+	public String getVersion() {
+		return version;
+	}
+
+	public void setVersion(String version) {
+		this.version = version;
 	}
 }
