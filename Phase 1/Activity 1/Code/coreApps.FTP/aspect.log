@@ -1,0 +1,5 @@
+15:53:35,386 DEBUG VersionControlOnSend.aj: 28 - Data in the buffer 220
+15:53:41,204 DEBUG VersionControlOnSend.aj: 31 - Message version number is :  1.0 
+15:53:41,205 DEBUG VersionControlOnSend.aj: 32 - Changing version number to 0.0
+15:53:41,207 DEBUG VersionControlOnSend.aj: 34 - Message version number after change is :  0.0 
+15:53:41,217 DEBUG VersionControlOnSend.aj: 44 - FTPClientsending bytes are 220

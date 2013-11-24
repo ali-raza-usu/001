@@ -70,6 +70,7 @@ public class FTPClient extends Thread {
 						if (sc != null) {
 							sc.read(readBuf);
 							readBuf.flip();
+							_logger.debug("FTP Client : remaining bytes are : "+ readBuf.remaining());
 							_data = (Message) convertBufferToMessage(readBuf);
 							readBuf.clear();
 						}

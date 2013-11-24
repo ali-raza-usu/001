@@ -1,1 +1,4 @@
 1. should I create one or two aspects?
+2.No send receive message in Channels so I have to think of other ways to find pointcuts
+3. In order to change the version numbers, I need to find a method where the message is created before sending
+	Possible candidates: Encoder.encode , sc.write

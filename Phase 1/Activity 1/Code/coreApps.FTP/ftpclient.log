@@ -1,4 +1,12 @@
-15:42:13,861 DEBUG FTPClient.java: 103 - File created at C:\Users\Tanwir\Documents\GitHub\001\Phase 1\Activity 1\Code\coreApps.FTP\paper.txt
-15:42:17,458 DEBUG FTPClient.java: 131 - Client is sending File Complete Transfer Ack
-15:42:17,461 DEBUG FTPClient.java: 135 - File Transfer is complete. Now the file is being opened
-15:42:17,540 DEBUG FTPClient.java: 149 - Client is closing all the connections 
+15:54:10,521 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:13,824 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:16,639 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:19,664 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:22,279 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:24,639 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:26,898 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:29,232 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:31,319 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:32,704 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:33,983 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
+15:54:34,929 DEBUG FTPClient.java: 73 - FTP Client : remaining bytes are : 0
