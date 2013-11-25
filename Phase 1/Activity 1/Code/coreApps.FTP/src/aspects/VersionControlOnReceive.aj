@@ -30,7 +30,8 @@ public aspect VersionControlOnReceive {
 		ByteBuffer tempBuf = _buffer.duplicate();
 		
 		Message msg = convertBufferToMessage(tempBuf);
-		
+		if(msg!=null)
+		{
 		if (readBytes > 0) {
 			Object obj = thisJoinPoint.getThis();
 			_logger.debug(obj.getClass().getSimpleName() + " read bytes are " + tempBuf.remaining());
@@ -43,7 +44,8 @@ public aspect VersionControlOnReceive {
 			_logger.debug("Message version number expected is :  0.0");
 			_logger.debug("Message version number received is: "+msg.getVersion());
 			
-			}		
+			}
+		}
 		}
 		
 		return readBytes;
