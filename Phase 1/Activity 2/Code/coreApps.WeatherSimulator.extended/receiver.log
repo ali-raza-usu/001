@@ -1,0 +1,139 @@
+17:57:40,123 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8815
+17:57:40,123 DEBUG Receiver.java: 88 - received data from Transmitter_0
+17:57:40,124 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -111 Temperature 62
+17:57:40,124 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 5 Temperature 39
+17:57:40,124 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -120 Temperature 0
+17:57:40,125 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 68 Temperature 35
+17:57:40,125 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_0 again....
+17:57:40,214 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:40,214 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:40,215 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 47 Temperature 5
+17:57:40,215 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 63 Temperature 52
+17:57:40,215 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 109 Temperature 1
+17:57:40,215 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 11 Temperature 40
+17:57:40,216 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:40,622 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8815
+17:57:40,622 DEBUG Receiver.java: 88 - received data from Transmitter_0
+17:57:40,623 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -117 Temperature 75
+17:57:40,623 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 58 Temperature 48
+17:57:40,623 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 71 Temperature 77
+17:57:40,624 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -96 Temperature 42
+17:57:40,624 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_0 again....
+17:57:40,716 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:40,717 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:40,717 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 118 Temperature 27
+17:57:40,717 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 96 Temperature 78
+17:57:40,718 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 65 Temperature 32
+17:57:40,718 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -57 Temperature 47
+17:57:40,718 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:41,123 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8815
+17:57:41,123 DEBUG Receiver.java: 88 - received data from Transmitter_0
+17:57:41,123 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 94 Temperature 67
+17:57:41,124 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 102 Temperature 67
+17:57:41,124 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -118 Temperature 77
+17:57:41,124 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 85 Temperature 33
+17:57:41,125 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_0 again....
+17:57:41,216 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:41,216 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:41,216 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 123 Temperature 25
+17:57:41,217 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 27 Temperature 1
+17:57:41,217 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -97 Temperature 57
+17:57:41,217 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 34 Temperature 51
+17:57:41,217 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:41,625 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8815
+17:57:41,625 DEBUG Receiver.java: 88 - received data from Transmitter_0
+17:57:41,625 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 112 Temperature 64
+17:57:41,626 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -73 Temperature 13
+17:57:41,626 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 51 Temperature 5
+17:57:41,626 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 89 Temperature 76
+17:57:41,626 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_0 again....
+17:57:41,714 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:41,717 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:41,717 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:41,717 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:41,805 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:41,943 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8815 is sending a packet of type SEND... to address localhost/127.0.0.1:8815
+17:57:42,125 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8815
+17:57:42,126 DEBUG Receiver.java: 88 - received data from Transmitter_0
+17:57:42,126 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 26 Temperature 49
+17:57:42,126 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -82 Temperature 53
+17:57:42,126 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -118 Temperature 12
+17:57:42,126 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : -85 Temperature 85
+17:57:42,127 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_0 again....
+17:57:42,218 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:42,218 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:42,219 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 107 Temperature 44
+17:57:42,219 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -57 Temperature 62
+17:57:42,219 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 104 Temperature 81
+17:57:42,219 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -78 Temperature 16
+17:57:42,219 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:42,221 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:42,221 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:42,221 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 107 Temperature 44
+17:57:42,221 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -57 Temperature 62
+17:57:42,221 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 104 Temperature 81
+17:57:42,222 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -78 Temperature 16
+17:57:42,222 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:42,309 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:42,310 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:42,310 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -125 Temperature 54
+17:57:42,310 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -95 Temperature 17
+17:57:42,310 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -57 Temperature 81
+17:57:42,311 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -97 Temperature 23
+17:57:42,311 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:42,447 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8815
+17:57:42,448 DEBUG Receiver.java: 88 - received data from Transmitter_0
+17:57:42,448 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 90 Temperature 56
+17:57:42,448 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 20 Temperature 4
+17:57:42,448 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 98 Temperature 42
+17:57:42,448 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8815 : Data Speed : 80 Temperature 65
+17:57:42,449 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_0 again....
+17:57:42,523 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8815 is sending a packet of type STOP... to address localhost/127.0.0.1:8815
+17:57:42,810 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:42,841 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:43,219 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:43,220 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:43,220 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:43,721 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:43,721 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:43,721 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 101 Temperature 91
+17:57:43,721 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -59 Temperature 63
+17:57:43,722 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -63 Temperature 23
+17:57:43,722 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -64 Temperature 31
+17:57:43,722 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:43,975 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:43,984 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:44,127 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:44,222 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:44,222 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:44,222 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 35 Temperature 17
+17:57:44,222 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 37 Temperature 95
+17:57:44,223 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -77 Temperature 36
+17:57:44,223 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -59 Temperature 62
+17:57:44,223 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:44,373 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:44,629 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:44,630 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:44,630 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:45,131 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:45,131 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:45,131 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 22 Temperature 89
+17:57:45,131 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -89 Temperature 39
+17:57:45,132 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 23 Temperature 39
+17:57:45,132 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -107 Temperature 19
+17:57:45,132 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:45,537 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:45,609 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:45,632 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:45,632 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:45,632 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -124 Temperature 42
+17:57:45,633 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -61 Temperature 90
+17:57:45,633 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : 75 Temperature 85
+17:57:45,633 DEBUG Receiver.java: 97 - Rcvd from /127.0.0.1:8816 : Data Speed : -123 Temperature 61
+17:57:45,633 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:45,906 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type SEND... to address localhost/127.0.0.1:8816
+17:57:46,111 DEBUG Receiver.java: 85 -  Socket Address /127.0.0.1:8816
+17:57:46,112 DEBUG Receiver.java: 91 - received data from Transmitter_1
+17:57:46,112 DEBUG Receiver.java: 126 -  going to schedule PacketLapse_1 again....
+17:57:46,172 DEBUG Receiver.java: 177 - PacketLapse localhost/127.0.0.1:8816 is sending a packet of type STOP... to address localhost/127.0.0.1:8816
+17:57:46,173 DEBUG Receiver.java: 192 - Now quitting the receiver ....!

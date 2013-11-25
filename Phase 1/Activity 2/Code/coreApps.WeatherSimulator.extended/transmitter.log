@@ -1,0 +1,49 @@
+17:57:36,585 DEBUG Transmitter.java: 69 - Binding Server Socket to port 8815
+17:57:38,082 DEBUG Transmitter.java: 69 - Binding Server Socket to port 8816
+17:57:39,610 DEBUG Transmitter.java: 90 - Transmitter 8815 : received data from addr: /127.0.0.1:59937
+17:57:39,612 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:39,711 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:39,712 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:41,715 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:41,716 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:41,805 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:41,806 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:41,943 DEBUG Transmitter.java: 90 - Transmitter 8815 : received data from addr: /127.0.0.1:59937
+17:57:41,944 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:42,217 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 1 messages of type WeatherDataRequest Resp ID: f9f09330-241d-4c06-8a74-aeca1f752430
+17:57:42,308 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 1 messages of type WeatherDataRequest Resp ID: 7fd87baa-0a13-4165-9667-ebcbef93b038
+17:57:42,523 DEBUG Transmitter.java: 90 - Transmitter 8815 : received data from addr: /127.0.0.1:59937
+17:57:42,524 DEBUG Transmitter.java: 109 - 8815 Rcvd: STOP: Now closing the Transmitter
+17:57:42,625 DEBUG Transmitter.java: 152 - Transmitter 8815Thread is interrupted by the PAUSE request from the receiver 
+17:57:42,625 DEBUG Transmitter.java: 155 - Transmitter 8815 : sent 5 messages of type WeatherDataRequest Resp ID: 6ae5fa2e-8b77-4e91-929a-a818a74b13d6
+17:57:42,811 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:42,811 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:42,811 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 0 messages of type WeatherDataRequest Resp ID: fbe88809-1309-4768-97fc-f49d3e40334c
+17:57:42,841 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:42,842 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:42,842 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 0 messages of type WeatherDataRequest Resp ID: 3ed28cc0-63a4-4303-940c-9cb10652dbf9
+17:57:43,975 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:43,976 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:43,977 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 0 messages of type WeatherDataRequest Resp ID: 6d77edfe-2eda-48b6-af39-9c27a38307ce
+17:57:43,984 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:43,985 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:43,985 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 0 messages of type WeatherDataRequest Resp ID: 88b5912b-555c-4c98-acdf-38fe5b673029
+17:57:44,127 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:44,128 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:44,221 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 9 messages of type WeatherDataRequest Resp ID: b147dc49-4b40-4a43-a9a9-6cfc1d98732a
+17:57:44,373 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:44,374 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:44,374 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 0 messages of type WeatherDataRequest Resp ID: b13e6259-f5d0-4b98-a8ac-7f433c2f31f8
+17:57:45,537 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:45,538 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:45,538 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 0 messages of type WeatherDataRequest Resp ID: 081120f3-f586-42eb-a9b1-f0946c865542
+17:57:45,609 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:45,610 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:45,631 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 3 messages of type WeatherDataRequest Resp ID: 47cf1132-4312-433f-a11f-4d5eadb96cfb
+17:57:45,907 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:45,907 DEBUG Transmitter.java: 169 - Sender is running !
+17:57:45,908 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 0 messages of type WeatherDataRequest Resp ID: 96ef3537-6102-4e46-adb5-8a1a61636ca6
+17:57:46,173 DEBUG Transmitter.java: 90 - Transmitter 8816 : received data from addr: /127.0.0.1:59937
+17:57:46,173 DEBUG Transmitter.java: 109 - 8816 Rcvd: STOP: Now closing the Transmitter
+17:57:46,612 DEBUG Transmitter.java: 152 - Transmitter 8816Thread is interrupted by the PAUSE request from the receiver 
+17:57:46,612 DEBUG Transmitter.java: 155 - Transmitter 8816 : sent 1 messages of type WeatherDataRequest Resp ID: fe9c5d5e-2f9c-40cd-8c09-06e6b3688e2d
