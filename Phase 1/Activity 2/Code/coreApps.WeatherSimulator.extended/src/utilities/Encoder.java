@@ -8,7 +8,6 @@ import java.io.ObjectOutputStream;
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
 
-import utilities.messages.Message;
 
 public class Encoder {
 	static Logger logger = Logger.getLogger(Encoder.class);
