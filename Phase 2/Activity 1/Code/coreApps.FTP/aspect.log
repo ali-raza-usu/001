@@ -1,0 +1,32 @@
+17:24:29,071 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 302
+17:24:29,074 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 302
+17:24:32,006 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:32,009 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 128117:24:36,770 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 236
+17:24:36,771 DEBUG VersionControlOnSend.aj: 81 - FTPClientsending bytes are 236
+81
+17:24:32,549 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:32,550 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:32,652 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:32,653 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:33,155 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:33,156 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:33,312 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:33,313 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:33,516 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:33,517 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:34,019 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:34,020 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:34,522 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:34,523 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:34,741 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:34,742 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:35,243 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:35,244 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:35,545 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:35,546 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:36,047 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:36,048 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:36,349 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1281
+17:24:36,349 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1281
+17:24:36,759 DEBUG VersionControlOnSend.aj: 33 - Data in the buffer 1262
+17:24:36,767 DEBUG VersionControlOnSend.aj: 81 - FTPServersending bytes are 1262

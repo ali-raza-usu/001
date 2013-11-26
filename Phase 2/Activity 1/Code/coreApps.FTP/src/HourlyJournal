@@ -1,0 +1,9 @@
+1. should I create one or two aspects?
+2.No send receive message in Channels so I have to think of other ways to find pointcuts
+3. In order to change the version numbers, I need to find a method where the message is created before sending
+	Possible candidates: Encoder.encode , sc.write
+	
+	Client is Sending a FTResquest version 1.0 but Server is expecting FTRequest version 0.0
+	
+	I have to get the contents from the existing message and create a 
+	whole new message with the same contents bt a different type and version number.
