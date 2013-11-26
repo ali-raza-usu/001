@@ -18,15 +18,13 @@ import org.apache.log4j.Logger;
 import utilities.Encoder;
 import utilities.Message;
 import utilities.RequestType;
-import utilities.WeatherDataReading;
-import utilities.WeatherDataRequest;
-import utilities.WeatherDataVector;
+import utilities.messages.ver1.*;
 
 public class Receiver extends Thread {
 
 	private Logger logger = Logger.getLogger(Receiver.class);
 
-	private ByteBuffer readBuf = ByteBuffer.allocateDirect(2048);
+	private ByteBuffer readBuf = ByteBuffer.allocateDirect(4096);
 	ByteBuffer buffer = null;
 	private Timer[] timer = new Timer[] { new Timer(), new Timer() };
 

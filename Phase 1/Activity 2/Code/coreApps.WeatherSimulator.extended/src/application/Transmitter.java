@@ -17,9 +17,7 @@ import org.apache.log4j.Logger;
 import utilities.Encoder;
 import utilities.Message;
 import utilities.RequestType;
-import utilities.WeatherDataReading;
-import utilities.WeatherDataRequest;
-import utilities.WeatherDataVector;
+import utilities.messages.ver0.*;
 
 public class Transmitter extends Thread {
 
@@ -32,7 +30,7 @@ public class Transmitter extends Thread {
 	private Selector sckt_manager = null;
 	DatagramChannel dgc = null;
 	DatagramChannel client = null;
-	private ByteBuffer buffer = ByteBuffer.allocateDirect(2048);
+	private ByteBuffer buffer = ByteBuffer.allocateDirect(4096);
 	private SocketAddress destAddr = null;
 	private WeatherStationSimulator sensor = null;
 	private int portNumber;
