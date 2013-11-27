@@ -35,6 +35,7 @@ public class FTPServer extends Thread {
 	private byte[] rdBytes = null;
 	boolean transferComplete = false;
 	private long remainingBytes;
+	private boolean isFinnished = false; 
 	private File selectedFile = null;
 
 	public void run() {
@@ -86,7 +87,7 @@ public class FTPServer extends Thread {
 							_data = (Message) convertBufferToMessage(buffer);
 							// _logger.debug("reading data and converting to message "+
 							// _data);
-							if (_data != null
+							/*if (_data != null
 									&& _data.getClass().equals(
 											FileTransferAck.class)) {
 								FileTransferAck _fileTransferAck = (FileTransferAck) _data;
@@ -94,8 +95,12 @@ public class FTPServer extends Thread {
 								if (_fileTransferAck.isComplete()) {
 									transferComplete = true;
 									// break;
-								}
-							} else if (_data != null
+								}*/
+							if(isFinnished)
+							{
+								transferComplete = true;
+							} 
+							else if (_data != null
 									&& _data.getClass().equals(
 											FileTransferRequest.class)) {
 								FileTransferRequest _fileTransferRequest = (FileTransferRequest) _data;
@@ -104,6 +109,8 @@ public class FTPServer extends Thread {
 											.getFileInterfaceStr();
 									FileTransferRequest _request = new FileTransferRequest(
 											null, fileList);
+									_request.setSender_version("0.0");
+									_request.setReceiver_version("1.0");
 									buffer = ByteBuffer.wrap(Encoder
 											.encode(_request));
 									client.write(buffer);
@@ -124,7 +131,7 @@ public class FTPServer extends Thread {
 											remainingBytes = selectedFile.length();
 										}
 										// _logger.debug("In the reading loop !");
-										boolean isFinnished = false;
+										
 										while (!isFinnished) {
 											if (remainingBytes > CHUNK_SIZE)
 												rdBytes = new byte[CHUNK_SIZE];
@@ -174,6 +181,8 @@ public class FTPServer extends Thread {
 											// _logger.debug("checking bytes in resp message");
 											if (_resp.getChunkBytes() != null) {
 												// _logger.debug("_resp.getChunk is not null");
+												_resp.setSender_version("0.0");
+												_resp.setReceiver_version("1.0");
 												buffer.clear();
 												buffer = ByteBuffer
 														.wrap(Encoder
@@ -190,6 +199,8 @@ public class FTPServer extends Thread {
 												null,
 												_fileHandler
 														.getFileInterfaceStr());
+										_fileRequest.setSender_version("0.0");
+										_fileRequest.setReceiver_version("1.0");
 										buffer = ByteBuffer.wrap(Encoder
 												.encode(_fileRequest));
 										client.write(buffer);

@@ -28,7 +28,7 @@ public class FTPClient extends Thread {
 	ByteBuffer readBuf = ByteBuffer.allocateDirect(5024);
 	FileOutputStream fos = null;
 	File rcvdFile = null;
-
+	
 	private boolean transferComplete = false;
 	BufferedReader inputBuf = null;
 
@@ -59,6 +59,8 @@ public class FTPClient extends Thread {
 			}
 
 			FileTransferRequest _request = new FileTransferRequest(null, null);
+			_request.setSender_version("1.0");
+			_request.setReceiver_version("0.0");
 			buffer.clear();
 			buffer = ByteBuffer.wrap(Encoder.encode(_request));
 			sc.write(buffer);
@@ -88,6 +90,8 @@ public class FTPClient extends Thread {
 								System.in));
 						String fileIndex = inputBuf.readLine();
 						_request = new FileTransferRequest(fileIndex, null);
+						_request.setSender_version("1.0");
+						_request.setReceiver_version("0.0");
 						buffer.clear();
 						buffer = ByteBuffer.wrap(Encoder.encode(_request));
 						sc.write(buffer);
@@ -126,18 +130,21 @@ public class FTPClient extends Thread {
 				}
 			}
 			// _logger.debug("Out of while loop ");
-			FileTransferAck ack = new FileTransferAck(true);
+			/*FileTransferAck ack = new FileTransferAck(true);
 			_logger.debug("Client is sending File Complete Transfer Ack");
 			buffer.clear();
 			buffer = ByteBuffer.wrap(Encoder.encode(ack));
-			sc.write(buffer);
-			_logger.debug("File Transfer is complete. Now the file is being opened");
-			if (Desktop.isDesktopSupported()) {
-				try {
-					if (rcvdFile != null)
-						Desktop.getDesktop().open(rcvdFile);
-				} catch (IOException ex) {
-					_logger.debug(ExceptionUtils.getStackTrace(ex));
+			sc.write(buffer);*/
+			if(transferComplete)
+			{
+				_logger.debug("File Transfer is complete. Now the file is being opened");
+				if (Desktop.isDesktopSupported()) {
+					try {
+						if (rcvdFile != null)
+							Desktop.getDesktop().open(rcvdFile);
+					} catch (IOException ex) {
+						_logger.debug(ExceptionUtils.getStackTrace(ex));
+					}
 				}
 			}
 		} catch (Exception e) {

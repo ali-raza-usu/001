@@ -20,13 +20,13 @@ public class FileTransferResponse extends Message {
 	}
 
 	public FileTransferResponse(boolean status) {
-		this.setVersion("0.0");
+		//this.setVersion("0.0");
 		this.isComplete = status;
 	}
 
 	public FileTransferResponse(String fileName, byte[] bytes,
 			boolean transferComplete) {
-		this.setVersion("0.0");
+		//this.setVersion("0.0");
 		this.setFileName(fileName);
 		this.chunkBytes = bytes;
 		this.isComplete = transferComplete;
@@ -34,7 +34,7 @@ public class FileTransferResponse extends Message {
 
 	public FileTransferResponse(String fileName, byte[] chunkBytes) {
 		super();
-		this.setVersion("0.0");
+		//this.setVersion("0.0");
 		this.fileName = fileName;
 		this.chunkBytes = chunkBytes;
 	}

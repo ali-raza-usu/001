@@ -8,7 +8,7 @@ public class FileTransferRequest extends Message {
 	private String fileNames = "";
 
 	public FileTransferRequest(String fileIndex, String fileNames) {
-		this.setVersion("0.0");
+		//this.setVersion("0.0");
 		this.fileIndex = fileIndex;
 		this.fileNames = fileNames;
 	}

@@ -37,12 +37,12 @@ public aspect VersionControlOnReceive {
 			_logger.debug(obj.getClass().getSimpleName() + " read bytes are " + tempBuf.remaining());
 			if (obj instanceof FTPClient) {
 				_logger.debug("Message version number expected is :  1.0");
-				_logger.debug("Message version number received is: "+msg.getVersion());
+				_logger.debug("Message version number received is: "+msg.getReceiver_version());
 				
 		}
 		else if(obj instanceof FTPServer) {
 			_logger.debug("Message version number expected is :  0.0");
-			_logger.debug("Message version number received is: "+msg.getVersion());
+			_logger.debug("Message version number received is: "+msg.getReceiver_version());
 			
 			}
 		}
