@@ -1,0 +1,2 @@
+How to create the new WeatherDatavector for the new version from existing readings
+

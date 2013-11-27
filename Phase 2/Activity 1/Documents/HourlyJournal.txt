@@ -1,0 +1,25 @@
+Removing ACK messages
+---------------------------
+1. Find a way to remove ACK messages(use isComplete() method of message to achieve this)
+At server side look for remainingBytes==0 (when  FileTransferResponse with iscomplete==true
+ is sent) to close connection
+At Client side look for _fileTransferResponse.isComplete()==true to close connection
+
+2. At server side change isFinnished to class memeber variable and check for its trueness. and set transferComplete = true.
+3. At Client side check if transferComplete==true the open file and close connection
+
+New Version control
+----------------------------
+1. We must change the Messages to include sender version and receiver version attributes
+2. By introducing sender and receiver version numbers in messages we can get rid of the previous assumption of client expecting version 1 and server expecting ver 0 messages only.
+3. Put the new sender and receiver version numbers in the Message class so that all subclasses have access to these attributes.
+4. Modify the Message class to put in new sender and receiver version numbers. alter the gettters and stters accordingly.
+
+
+5. Remove setting version from message constructor and set it when after creating the message as a method call
+
+6. Change the send aspects to remove the assumptions of client and server dealing with a particular version number and get that info from the messages themselves.
+
+7. Introduce version number attribute for client and serve---(bad idea introduces coupling)
+
+8. if sender -receiver version number is same no need to change message version
