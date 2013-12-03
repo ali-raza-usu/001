@@ -1,0 +1,623 @@
+15:09:12,986 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read15:09:13,064 DEBUG VersionControlOnReceive.aj: 45 - Receiver read bytes are 2048
+15:09:13,065 DEBUG VersionControlOnReceive.aj: 47 - Object type is Receiver
+15:09:13,070 DEBUG VersionControlOnReceive.aj: 48 - Message version number expected is :  1.0
+15:09:13,070 DEBUG VersionControlOnReceive.aj: 49 - Message version number received is: 1.0
+15:09:13,618 DEBU15:09:13,621 DEBUG VersionControlOnReceive.aj: 45 - Tran15:09:13,704 DEBUG VersionControlOnReceive.aj: 45 - Receiver read bytes are 2048
+15:09:13,704 DEBUG VersionControlOnReceive.aj: 47 - Object type is Receiver
+15:09:13,704 DEBUG VersionControlOnReceive.aj: 48 - Message version number expected is :  1.0
+15:09:13,705 DEBUG VersionControlOnReceive.aj: 49 - Message version number received is: 1.0
+15:09:14,068 DEBUG VersionControlO15:09:14,070 DEBUG VersionControlOnRece15:09:14,121 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:14,439 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:14,559 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:14,869 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:14,946 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:15,224 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:15,436 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:15,503 DEBUG VersionControlOnReceive.aj: 45 - Receiver read bytes are 2048
+15:09:15,503 DEBUG VersionControlOnReceive.aj: 47 - Object type is Receiver
+15:09:15,504 DEBUG VersionControlOnReceive.aj: 48 - Message version number expected is :  1.0
+15:09:15,504 DEBUG VersionControlOnReceive.aj: 49 - Message version number received is: 1.0
+15:09:15,792 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:15,814 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:15,937 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:16,126 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:16,232 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:16,332 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:16,586 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:16,627 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:16,766 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:16,894 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,052 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,232 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,305 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,409 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,482 DEBUG VersionControlOnReceive.aj: 45 - Receiver read bytes are 2048
+15:09:17,483 DEBUG VersionControlOnReceive.aj: 47 - Object type is Receiver
+15:09:17,483 DEBUG VersionControlOnReceive.aj: 48 - Message version number expected is :  1.0
+15:09:17,483 DEBUG VersionControlOnReceive.aj: 49 - Message version number received is: 1.0
+15:09:17,561 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,738 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,772 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,868 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:17,950 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,039 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,208 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,213 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,282 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,370 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,551 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,611 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,634 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,843 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:18,918 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,022 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,080 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,185 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,312 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,363 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,576 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,606 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,633 DEBUG VersionControlOnReceive.aj: 45 - Receiver read bytes are 2048
+15:09:19,634 DEBUG VersionControlOnReceive.aj: 47 - Object type is Receiver
+15:09:19,634 DEBUG VersionControlOnReceive.aj: 48 - Message version number expected is :  1.0
+15:09:19,634 DEBUG VersionControlOnReceive.aj: 49 - Message version number received is: 1.0
+15:09:19,820 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,821 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,946 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:19,990 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,043 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,142 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,230 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,265 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,300 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,390 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,508 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,664 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,754 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,768 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,811 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:20,872 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,026 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,155 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,184 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,210 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,352 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,382 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,549 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,606 DEBUG VersionControlOnReceive.aj: 45 - Receiver read bytes are 2048
+15:09:21,607 DEBUG VersionControlOnReceive.aj: 47 - Object type is Receiver
+15:09:21,607 DEBUG VersionControlOnReceive.aj: 48 - Message version number expected is :  1.0
+15:09:21,607 DEBUG VersionControlOnReceive.aj: 49 - Message version number received is: 1.0
+15:09:21,640 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,664 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,680 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,749 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:21,943 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,024 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,026 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,053 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,095 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,137 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,267 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,474 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,488 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,494 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,501 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,590 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,625 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,859 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,866 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,931 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,933 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,959 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:22,960 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,236 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,265 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,266 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,276 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,299 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,332 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,609 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,662 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,738 DEBUG VersionControlOnReceive.aj: 45 - Receiver read bytes are 2048
+15:09:23,739 DEBUG VersionControlOnReceive.aj: 47 - Object type is Receiver
+15:09:23,739 DEBUG VersionControlOnReceive.aj: 48 - Message version number expected is :  1.0
+15:09:23,739 DEBUG VersionControlOnReceive.aj: 49 - Message version number received is: 1.0
+15:09:23,819 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,820 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,821 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,822 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:23,940 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,096 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,108 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,122 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,191 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,220 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,221 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,423 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,460 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,488 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,517 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,586 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,601 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,675 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,794 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,858 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,905 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,912 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,917 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:24,976 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,027 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,162 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,231 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,246 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,279 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,285 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,294 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,447 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,495 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,502 DEBUG VersionControlOnReceive.aj: 45 - Receiver read bytes are 2048
+15:09:25,502 DEBUG VersionControlOnReceive.aj: 47 - Object type is Receiver
+15:09:25,502 DEBUG VersionControlOnReceive.aj: 48 - Message version number expected is :  1.0
+15:09:25,502 DEBUG VersionControlOnReceive.aj: 49 - Message version number received is: 1.0
+15:09:25,571 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,608 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,613 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,636 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,668 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,827 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,849 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,885 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,889 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,949 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:25,961 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:26,098 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:26,139 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+15:09:26,140 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 276
+bject type is Transmitter_8815
+15:09:18,636 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:18,636 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:18,844 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:18,844 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:18,845 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:18,845 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:18,919 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:18,919 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:18,920 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:18,920 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,023 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:19,023 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,024 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,024 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,081 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:19,081 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,082 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,082 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,186 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:19,186 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,187 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,187 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,313 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:19,314 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,314 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,314 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,364 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:19,365 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,365 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,365 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,577 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:19,578 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,578 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,578 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,632 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 1286
+15:09:19,634 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:19,635 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,635 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,635 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,821 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:19,822 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,822 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,822 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,825 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:19,825 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,826 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,826 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,948 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:19,948 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,948 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,949 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:19,992 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:19,992 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:19,993 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:19,993 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,054 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,055 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,055 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,055 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,144 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,144 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,144 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,144 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,231 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,232 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,232 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,232 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,266 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,266 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,267 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,267 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,301 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,301 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,301 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,302 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,391 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,391 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,391 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,391 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,509 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,509 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,509 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,509 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,665 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,666 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,666 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,666 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,755 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,756 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,756 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,756 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,770 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,770 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,770 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,770 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,812 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,813 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,813 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,813 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:20,873 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:20,873 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:20,873 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:20,874 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,093 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:21,094 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,094 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,094 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,156 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:21,157 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,157 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,157 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,185 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:21,185 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,186 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,186 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,211 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:21,212 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,212 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,212 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,354 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:21,354 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,354 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,354 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,383 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:21,383 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,384 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,384 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,550 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:21,551 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,551 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,551 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,605 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 1294
+15:09:21,641 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:21,641 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,641 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,642 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,665 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:21,665 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,665 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,665 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,681 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:21,681 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,681 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,682 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,750 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:21,751 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,751 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,751 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:21,944 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:21,945 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:21,945 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:21,945 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,025 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,026 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,026 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,026 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,028 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,028 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,029 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,029 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,055 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,055 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,055 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,055 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,096 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,097 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,097 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,097 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,138 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,139 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,139 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,139 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,268 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,268 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,268 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,269 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,475 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,475 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,476 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,476 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,489 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,489 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,490 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,490 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,495 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,495 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,495 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,495 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,502 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,502 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,502 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,502 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,591 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,591 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,591 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,592 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,626 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,626 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,627 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,627 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,860 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,860 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,861 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,861 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,867 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,867 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,867 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,867 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,932 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,932 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,932 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,932 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,934 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,934 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,934 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,935 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,960 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,961 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,961 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,961 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:22,962 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:22,962 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:22,963 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:22,963 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,237 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,237 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,237 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,238 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,266 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,266 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,266 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,266 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,268 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,268 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,268 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,268 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,277 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,277 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,277 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,278 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,300 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,300 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,300 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,300 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,333 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,334 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,334 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,334 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,610 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,611 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,611 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,611 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,664 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 1294
+15:09:23,690 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,690 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,690 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,691 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,820 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,820 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,821 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,821 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,823 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,825 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,825 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,825 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,827 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,827 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,827 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,827 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,829 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,829 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,830 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,830 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:23,941 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:23,941 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:23,941 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:23,942 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,097 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,097 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,097 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,097 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,109 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,109 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,109 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,109 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,123 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,123 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,123 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,123 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,192 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,192 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,192 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,192 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,221 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,222 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,222 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,222 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,223 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,223 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,223 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,223 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,424 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,424 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,425 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,425 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,461 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,461 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,461 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,461 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,489 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,489 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,489 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,489 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,518 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,518 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,518 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,518 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,587 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,587 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,587 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,587 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,602 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,602 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,602 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,603 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,676 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,676 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,676 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,676 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,795 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,795 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,795 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,795 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,859 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,860 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,860 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,860 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,906 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,906 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,906 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,906 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,913 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,913 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,913 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,913 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,918 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,918 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,918 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,918 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:24,977 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:24,977 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:24,977 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:24,977 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,028 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:25,028 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,028 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,028 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,163 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:25,163 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,163 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,163 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,232 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:25,232 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,233 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,233 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,247 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:25,247 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,247 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,247 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,280 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:25,280 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,280 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,280 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,286 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:25,286 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,286 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,286 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,295 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:25,295 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,295 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,296 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,448 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1294
+15:09:25,448 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,449 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,449 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,501 DEBUG VersionControlOnSend.aj: 40 - Data in the buffer 1286
+15:09:25,502 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,502 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,502 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,502 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,572 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,572 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,572 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,572 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,609 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,609 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,609 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,609 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,614 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,614 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,614 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,614 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,637 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,638 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,638 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,638 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,669 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,669 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,670 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,670 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,828 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,828 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,828 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,829 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,850 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,850 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,850 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,850 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,886 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,886 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,886 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,886 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,890 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,890 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,890 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,890 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,950 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,950 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,950 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,950 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:25,962 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:25,962 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:25,962 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:25,962 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:26,099 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:26,099 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:26,100 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:26,100 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:26,140 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:26,141 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:26,141 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:26,141 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0
+15:09:26,142 DEBUG VersionControlOnReceive.aj: 45 - Transmitter_8815 read bytes are 1286
+15:09:26,143 DEBUG VersionControlOnReceive.aj: 53 - Object type is Transmitter_8815
+15:09:26,143 DEBUG VersionControlOnReceive.aj: 54 - Message version number expected is :  0.0
+15:09:26,143 DEBUG VersionControlOnReceive.aj: 55 - Message version number received is: 0.0

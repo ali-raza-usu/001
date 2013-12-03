@@ -40,8 +40,8 @@ public class Encoder {
 			bInputS.close();
 			return msg;
 		} catch (Exception e) {
-			e.printStackTrace();
-			logger.error(ExceptionUtils.getStackTrace(e));
+			//e.printStackTrace();
+			//logger.error(ExceptionUtils.getStackTrace(e));
 			return null;
 		}
 	}

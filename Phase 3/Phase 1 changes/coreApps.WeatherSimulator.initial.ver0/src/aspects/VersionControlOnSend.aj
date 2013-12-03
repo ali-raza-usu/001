@@ -14,8 +14,8 @@ import java.util.TimerTask;
 
 import org.apache.log4j.Logger;
 
-import application.Receiver;
-import application.Transmitter;
+import simulation.communication.Receiver;
+import simulation.communication.Transmitter_8815;
 
 import utilities.Encoder;
 import utilities.Message;
@@ -45,12 +45,12 @@ public aspect VersionControlOnSend {
 			if(msgName.equals(WeatherDataRequest.class.getSimpleName()))
 			{
 			 utilities.messages.ver1.WeatherDataRequest req = (utilities.messages.ver1.WeatherDataRequest)msg;
-			 utilities.messages.ver0.WeatherDataRequest request=new WeatherDataRequest(req.getReqType());
+			 utilities.messages.ver0.WeatherDataRequest request=new WeatherDataRequest();
 			 msg  = request;
 			}
 			
 		}		
-		else if(obj instanceof Transmitter){
+		else if(obj instanceof Transmitter_8815){
 			String msgName = msg.getClass().getSimpleName();
 			if(msgName.equals(WeatherDataVector.class.getSimpleName()))
 			{
@@ -76,7 +76,7 @@ public aspect VersionControlOnSend {
 			if(msgName.equals(WeatherDataRequest.class.getSimpleName()))
 			{
 			 utilities.messages.ver1.WeatherDataRequest req = (utilities.messages.ver1.WeatherDataRequest)msg;
-			 utilities.messages.ver0.WeatherDataRequest request=new WeatherDataRequest(req.getReqType());
+			 utilities.messages.ver0.WeatherDataRequest request=new WeatherDataRequest();
 			 msg  = request;
 			}
 		}

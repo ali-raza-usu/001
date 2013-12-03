@@ -7,10 +7,10 @@ import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import simulation.messages.WeatherDataReading;
-import simulation.messages.WeatherDataVector;
-import simulation.messages.WeatherDataVector.LocType;
-import simulation.messages.WeatherDataVector.ObservationType;
+import utilities.messages.ver0.WeatherDataReading;
+import utilities.messages.ver0.WeatherDataVector;
+import utilities.messages.ver0.WeatherDataVector.LocType;
+import utilities.messages.ver0.WeatherDataVector.ObservationType;
 
 import org.apache.log4j.Logger;
 

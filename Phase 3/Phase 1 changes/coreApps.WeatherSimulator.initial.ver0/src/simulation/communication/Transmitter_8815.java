@@ -9,8 +9,8 @@ import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
 import java.nio.channels.spi.SelectorProvider;
 import java.util.Iterator;
-import simulation.messages.WeatherDataRequest;
-import simulation.messages.WeatherDataVector;
+import utilities.messages.ver0.WeatherDataRequest;
+import utilities.messages.ver0.WeatherDataVector;
 
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;

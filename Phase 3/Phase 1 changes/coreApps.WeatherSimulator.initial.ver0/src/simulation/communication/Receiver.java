@@ -10,9 +10,9 @@ import java.nio.channels.DatagramChannel;
 import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
-import simulation.messages.WeatherDataReading;
-import simulation.messages.WeatherDataRequest;
-import simulation.messages.WeatherDataVector;
+import utilities.messages.ver1.WeatherDataReading;
+import utilities.messages.ver1.WeatherDataRequest;
+import utilities.messages.ver1.WeatherDataVector;
 
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
