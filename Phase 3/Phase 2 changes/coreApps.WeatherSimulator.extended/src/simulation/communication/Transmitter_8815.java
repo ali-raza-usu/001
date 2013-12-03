@@ -13,10 +13,10 @@ import java.util.Iterator;
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
 
-import utilities.RequestType;
-import utilities.WeatherDataReading;
-import utilities.WeatherDataRequest;
-import utilities.WeatherDataVector;
+import utilities.messages.ver0.RequestType;
+import utilities.messages.ver0.WeatherDataReading;
+import utilities.messages.ver0.WeatherDataRequest;
+import utilities.messages.ver0.WeatherDataVector;
 import utilities.Encoder;
 import utilities.Message;
 
@@ -140,10 +140,14 @@ public class Transmitter_8815 extends Thread {
 			ByteBuffer buffer = ByteBuffer.wrap(Encoder.encode(_dataVector));
 			// logger.debug("After sending value " );//+
 			// CompressManager.getInstance().getCompression().name());
+			Message msg=convertBufferToMessage(buffer);
+			msg.setSender_version("0.0");
+			msg.setReceiver_version("1.0");
+			ByteBuffer send_buffer = ByteBuffer.wrap(Encoder.encode(msg));
 			Thread.sleep(500);
 			if (keepSending) {// Need to check it again due to the sleeping
 								// state of thread
-				client.send(buffer, destAddr);
+				client.send(send_buffer, destAddr);
 				index++;
 			}
 		}

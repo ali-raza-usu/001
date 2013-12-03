@@ -1,4 +1,4 @@
-package utilities;
+package utilities.messages.ver0;
 
 public enum RequestType {
 

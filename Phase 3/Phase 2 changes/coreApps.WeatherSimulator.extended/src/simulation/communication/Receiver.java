@@ -14,10 +14,10 @@ import java.util.TimerTask;
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
 
-import utilities.RequestType;
-import utilities.WeatherDataReading;
-import utilities.WeatherDataRequest;
-import utilities.WeatherDataVector;
+import utilities.messages.ver0.RequestType;
+import utilities.messages.ver1.WeatherDataReading;
+import utilities.messages.ver1.WeatherDataRequest;
+import utilities.messages.ver1.WeatherDataVector;
 import utilities.Encoder;
 import utilities.Message;
 
@@ -73,10 +73,18 @@ public class Receiver extends Thread {
 			srcAddr[0] = new InetSocketAddress("localhost", portOne);// To send request to Transmitter1
 			srcAddr[1] = new InetSocketAddress("localhost", portTwo);// To send request to Transmitter2
 			ByteBuffer buffer = ByteBuffer.wrap(Encoder.encode(new WeatherDataRequest(RequestType.SEND)));
-			dc.send(buffer, srcAddr[0]);
+			Message msg=convertBufferToMessage(buffer);
+			msg.setSender_version("1.0");
+			msg.setReceiver_version("0.0");
+			ByteBuffer send_buffer = ByteBuffer.wrap(Encoder.encode(msg));			
+			dc.send(send_buffer, srcAddr[0]);
 			// logger.debug("Sending request for Transmitter 1");
 			buffer = ByteBuffer.wrap(Encoder.encode(new WeatherDataRequest(RequestType.SEND)));
-			dc.send(buffer, srcAddr[1]);
+			msg=convertBufferToMessage(buffer);
+			msg.setSender_version("1.0");
+			msg.setReceiver_version("0.0");
+			send_buffer = ByteBuffer.wrap(Encoder.encode(msg));	
+			dc.send(send_buffer, srcAddr[1]);
 			// logger.debug("Sending request for Transmitter 2");
 			while (keepRunning) {
 				readBuf.clear();
@@ -184,9 +192,15 @@ public class Receiver extends Thread {
 						logger.debug("PacketLapse " + addr
 								+ " is sending a packet of type " + type.name()
 								+ "...");
-						dc.send(ByteBuffer.wrap(Encoder
-								.encode(new WeatherDataRequest(type))), addr);
-
+						/*dc.send(ByteBuffer.wrap(Encoder
+								.encode(new WeatherDataRequest(type))), addr);*/
+						ByteBuffer buffer = (ByteBuffer.wrap(Encoder
+								.encode(new WeatherDataRequest(type))));
+						Message msg=convertBufferToMessage(buffer);
+						msg.setSender_version("1.0");
+						msg.setReceiver_version("0.0");
+						ByteBuffer send_buffer = ByteBuffer.wrap(Encoder.encode(msg));	
+						dc.send(send_buffer, addr);
 						timerActive[tmrIndex] = false;
 						if (type == RequestType.STOP) {
 							timerActive[tmrIndex] = true;

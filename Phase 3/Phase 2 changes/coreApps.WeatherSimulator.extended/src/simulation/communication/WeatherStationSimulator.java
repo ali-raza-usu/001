@@ -9,10 +9,10 @@ import java.util.TimerTask;
 
 import org.apache.log4j.Logger;
 
-import utilities.WeatherDataReading;
-import utilities.WeatherDataVector;
-import utilities.WeatherDataVector.LocType;
-import utilities.WeatherDataVector.ObservationType;
+import utilities.messages.ver0.WeatherDataReading;
+import utilities.messages.ver0.WeatherDataVector;
+import utilities.messages.ver0.WeatherDataVector.LocType;
+import utilities.messages.ver0.WeatherDataVector.ObservationType;
 
 //This class generates Wind data such as wind speed and direction in a winddatavector form
 //The frequency attribute decided how frequent WindDataVector would be generated
